@@ -1,0 +1,3 @@
+# Paste a GitLab personal access token (or root token) on the next line.
+# Scopes: api, read_repository, write_repository
+glpat-xxxxxxxxxxxxxxxxxxxx

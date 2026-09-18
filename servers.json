@@ -1,0 +1,16 @@
+{
+  "defaults": {
+    "user": "ubuntu",
+    "port": 22,
+    "enabled": true
+  },
+  "servers": [
+    {
+      "id": "local",
+      "host": "127.0.0.1",
+      "key": "safe/local-privatekey.pem",
+      "enabled": false,
+      "note": "In-place target for documentation; prefer `fast-git setup` on the box itself."
+    }
+  ]
+}
