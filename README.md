@@ -1,3 +1,5 @@
+[![](./FoxG-Kit.png)](./FoxG-Kit.png)
+
 # Fast-Git
 
 Standalone CLI that turns **this machine** (laptop or Linux VM) into a **GitLab Omnibus + GitLab Runner** node, then seeds Fast-* (or any) projects with CI/CD.
